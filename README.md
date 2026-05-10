@@ -11,17 +11,17 @@ Experience the live version of the project here:
 ---
 
 ## 🧠 Key Features & Technical Implementation
+* **Advanced Layouts**: Built using a powerful combination of **CSS Grid** for main page structure and **Flexbox** for precise element alignment.
 * **Fully Responsive Design**: Optimized for mobile, tablet, and desktop using CSS Media Queries.
-* **Modern Layouts**: Built using **CSS Flexbox** for precise element alignment.
 * **Asset Management**: Organized directory structure for high maintainability.
 * **Visual Excellence**: Integrated **Font Awesome** icons and **Google Fonts** for a premium look.
 
 ## 🛠 Tech Stack
 * **HTML5**: Semantic markup for better SEO and accessibility.
-* **CSS3**: Advanced styling including transitions, hover effects, and custom variables.
+* **CSS3 (Grid & Flexbox)**: Advanced styling including layouts, transitions, and custom variables.
 * **GitHub Pages**: Deployed as a live web service.
 
-## 📁 Repository Structure
+## 📁 Project Structure
 * `leon.HTML`: The main entrance of the website.
 * `CSS/`: Contains the core styling files (e.g., `leon.css`).
 * `Images/`: High-quality optimized visual assets.
@@ -36,6 +36,7 @@ Experience the live version of the project here:
 
 ## 📜 Credits
 * **Design Concept**: Inspired by the "Leon" template from [GraphBerry](https://www.graphberry.com).
+* **Guidance**: Implementation logic followed the Front-End path at **Elzero Web School**.
 * **Developer**: [Ibrahim Hamdouna](https://github.com/ibrahim-hamdouna) 💻
 
 ---
