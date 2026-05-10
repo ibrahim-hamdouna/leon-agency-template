@@ -1,38 +1,41 @@
-# Leon Agency - Web Design Project
+# Leon Agency - Modern Creative Landing Page 🚀
 
-A modern and professional landing page built using **HTML** and **CSS**. This project is a front-end implementation of the "Leon" agency template, focusing on clean design, responsive layout, and high-quality typography.
-
----
-
-## 🚀 Technologies Used
-* **HTML5**: Semantic structure of the web pages.
-* **CSS3**: Custom styling, Flexbox for layout, and hover effects.
-* **Font Awesome**: Integrated for scalable vector icons.
-* **Google Fonts**: Used for modern and readable typography.
-
-## ✨ Features
-* **Fully Responsive**: The design adapts to different screen sizes.
-* **Modern UI/UX**: Clean and minimalist design inspired by professional agency templates.
-* **Optimized Assets**: Organized folder structure for better performance.
-
-## 📁 Project Structure
-The repository is organized as follows:
-* `index.html`: The main entry point of the website.
-* `/css`: Contains the stylesheet files.
-* `/images`: Contains all the images and graphics used in the site.
-* `/webfonts` & `/Font`: Essential files for icons and custom fonts.
-* `README.md`: Project documentation.
-
-## ⚙️ How to Run
-1.  **Download/Clone** the repository.
-2.  Locate the `index.html` file in the main folder.
-3.  Open it in your favorite web browser (Chrome, Firefox, or Edge).
+A high-performance, pixel-perfect landing page for a creative agency. This project is a front-end implementation of the **Leon** template, focused on mastering modern CSS layouts and responsive web design.
 
 ---
 
-## 📜 Credits & License
-* **Design Assets**: This project uses design elements (icons and templates) provided by [GraphBerry](https://www.graphberry.com).
-* **Usage**: All royalty-free stock design elements are used under GraphBerry's license for personal and commercial usage.
-* **Created by**: [Ibrahim Hamdouna](https://github.com/ibrahim-hamdouna)
+## 🔗 Live Demo
+Experience the live version of the project here:
+> **[View Live Site ✨](https://ibrahim-hamdouna.github.io/leon-agency-template/leon.HTML)**
+
+---
+
+## 🧠 Key Features & Technical Implementation
+* **Fully Responsive Design**: Optimized for mobile, tablet, and desktop using CSS Media Queries.
+* **Modern Layouts**: Built using **CSS Flexbox** for precise element alignment.
+* **Asset Management**: Organized directory structure for high maintainability.
+* **Visual Excellence**: Integrated **Font Awesome** icons and **Google Fonts** for a premium look.
+
+## 🛠 Tech Stack
+* **HTML5**: Semantic markup for better SEO and accessibility.
+* **CSS3**: Advanced styling including transitions, hover effects, and custom variables.
+* **GitHub Pages**: Deployed as a live web service.
+
+## 📁 Repository Structure
+* `leon.HTML`: The main entrance of the website.
+* `CSS/`: Contains the core styling files (e.g., `leon.css`).
+* `Images/`: High-quality optimized visual assets.
+* `webfonts/` & `Font/`: Iconography and typography libraries.
+
+## ⚙️ How to View Locally
+1.  **Clone** the repository: `git clone https://github.com/ibrahim-hamdouna/leon-agency-template.git`
+2.  Navigate to the project folder.
+3.  Open `leon.HTML` in any modern web browser.
+
+---
+
+## 📜 Credits
+* **Design Concept**: Inspired by the "Leon" template from [GraphBerry](https://www.graphberry.com).
+* **Developer**: [Ibrahim Hamdouna](https://github.com/ibrahim-hamdouna) 💻
 
 ---
